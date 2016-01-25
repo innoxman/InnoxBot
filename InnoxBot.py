@@ -23,7 +23,7 @@ def menu(bot, update):
 
 def main():
 	# Create the EventHandler and pass it your bot's token.
-	updater = telegram.Updater(token="143316474:AAFYrQcQDRELAr_wkOxIBYbT9dsXdyFX7rk")
+	updater = telegram.Updater(token="XXXX")
 
 	# Get the dispatcher to register handlers
 	dp = updater.dispatcher
